@@ -14,7 +14,7 @@
 <a title="MadeWithVueJs.com Shield" href="https://madewithvuejs.com/p/ride-receipts/shield-link"> <img src="https://madewithvuejs.com/storage/repo-shields/328-shield.svg"/></a>
 </p>
 
-> Simple automation desktop app to download and organize your receipts from Uber and Lyft.
+> Simple automation desktop app to download and organize your receipts from Uber and Lyft
 
 
 ![screenshot](/ridereceipt-app.png)
